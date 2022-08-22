@@ -1,14 +1,14 @@
 {
-    "name": "XRay",
+    "name": "Xwds",
     "description": "Deploy Xray on Heroku.",
     "keywords": ["XRay"],
     "env": {
         "UUID": {
             "description": "XRay UUID",
-            "value": "24b4b1e1-7a89-45f6-858c-242cf53b5bdb"
+            "value": "9f8e3823-d6dc-429c-ad8a-eb3ff66c3baa"
         }
     },
-    "website": "https://github.com/Lbingyi/Xray-Heroku",
-    "repository": "https://github.com/Lbingyi/Xray-Heroku",
+    "website": "https://github.com/fdghtrhr/",
+    "repository": "https://github.com/fdghtrhr/dsfrgte",
     "stack": "container"
 }
